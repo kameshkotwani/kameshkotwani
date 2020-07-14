@@ -1,4 +1,4 @@
-### Hola.
+## Hola.
 
 <!--
 **kameshkotwani/kameshkotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:wink: An elegant public speaker, developer, and Microsoft Lover. 
+
+🔭  Currently working on my [porftfolio](https://kameshkotwani.github.io/portfolio) website.
+
+🌱 Learning Data Structures and Algorithms.
+
+🤔 Looking for help in Web-Development, I suck at css big time.(I probably should not mention it lol 😄)
+
+:heart: C++, Python, C, HTML.
+
+📫 Follow me on [Twitter](https://www.twitter.com/kameshkotwani) | [Linkedin](https://www.linkedin.com/in/kameshkotwani) | [GitHub](https://www.github.com/kameshkotwani)
+
+⚡ I **despise** social-media.
+
+
+
+
