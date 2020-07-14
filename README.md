@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :wink: An elegant public speaker, developer, and Microsoft Lover. 
 
-🔭  Currently working on my [porftfolio](https://kameshkotwani.github.io/portfolio) website.
+🔭  Currently working on my [portfolio](https://kameshkotwani.github.io/portfolio) website.
 
 🌱 Learning Data Structures and Algorithms.
 
