@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :wink: An elegant public speaker, developer, and Microsoft Lover. 
 
-I'm available for jobs.
+📫 I'm available for jobs.
 
 🔭  Currently working on my [portfolio](https://kameshkotwani.github.io/portfolio) website.
 
