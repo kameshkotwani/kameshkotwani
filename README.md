@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📫 I'm available for jobs.
 
-🔭  Currently working on my [portfolio](https://kameshkotwani.github.io/portfolio) website.
+🔭 My [portfolio](https://kameshkotwani.github.io/portfolio)
 
 🌱 Learning Data Structures and Algorithms.
 
