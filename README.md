@@ -5,9 +5,9 @@
 - Currently Learning Data Structures and Algorithms!
 - Actively Looking for Jobs.
 - Contributing to Open Source.
-- Microsoft Fanatic and [Brave Browser][brave] supporter.
+- [Microsoft][microsoft] Fanatic and [Brave Browser][brave] supporter.
 ----------
-### Judge me here:
+### Find me below
 
 [<img align="left" alt="portfolio-website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg "/>][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -19,6 +19,7 @@
 ### Languages and Tools:
 
 <img align ="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> 
+
 <img align ="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
@@ -27,13 +28,15 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<img align ="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> 
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -42,8 +45,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
 ------------
 
 <summary>:zap: GitHub Stats</summary>
@@ -55,6 +56,7 @@
 [brave]: https://www.brave.com/kam026
 [twitter]:https://www.twitter.com/kameshkotwani
 [linkedin]:https://www.linkedin.com/in/kameshkotwani
+[microsoft]:https://opensource.microsoft.com/
 
 
 
