@@ -1,4 +1,5 @@
 ## Hello, I'm Kamesh.
+![Twitter Follow](https://img.shields.io/twitter/follow/kameshkotwani?style=for-the-badge)
 
 ### Developer, Gamer, Some other things too.
 - Currently Working on redesigning my [Portfolio][website].
@@ -46,7 +47,8 @@
 
 <br />
 
-#### GitHub Stats
+<hr>
+<summary> Stats</sumamry>
 
 <img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=true" />
 
