@@ -1,5 +1,5 @@
 ## Hello, I'm Kamesh.
-![Twitter Follow](https://img.shields.io/twitter/follow/kameshkotwani?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kameshkotwani?color=1DA1F2&logo=Twitter&style=for-the-badge)][tfollow]
 ### Developer, Gamer, Some other things too.
 - Currently Working on redesigning my [Portfolio][website].
 - Currently Learning Data Structures and Algorithms!
@@ -57,6 +57,6 @@
 [twitter]:https://www.twitter.com/kameshkotwani
 [linkedin]:https://www.linkedin.com/in/kameshkotwani
 [microsoft]:https://opensource.microsoft.com/
-[Twitter Follow]:https://www.twitter.com/kameshkotwani
+[tfollow]:https://www.twitter.com/kameshkotwani
 
 
