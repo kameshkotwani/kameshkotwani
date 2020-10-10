@@ -1,7 +1,7 @@
 ## Hello, I'm Kamesh.
 
 ### Developer, Gamer, Some other things too.
-- Currently Working on My Redesigned [Portfolio][website].
+- Currently Working on redesigning my [Portfolio][website].
 - Currently Learning Data Structures and Algorithms!
 - Actively Looking for Jobs.
 - Contributing to Open Source.
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align ="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align ="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 
