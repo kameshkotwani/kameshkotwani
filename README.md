@@ -1,35 +1,25 @@
-## Yello.
+## Hello, I'm Kamesh.
 
-<!--
-**kameshkotwani/kameshkotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer, Gamer, Some other things too.
+- Currently Working on My Redesigned [Portfolio][website].
+- Currently Learning Data Structures and Algorithms!
+- Actively Looking for Jobs.
+- Contributing to Open Source.
+- Microsoft Fanatic and [Brave Browser][brave] supporter.
 
-Here are some ideas to get you started:
+### Judge me here:
+[<img align="left" alt="portfolio-website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-:wink: An elegant public speaker, developer, and Microsoft Lover. 
 
-📫 I'm available for jobs.
 
-🔭 My [portfolio](https://kameshkotwani.github.io/portfolio)
 
-🌱 Learning Data Structures and Algorithms.
 
-🤔 Looking for help in Web-Development, I suck at css big time.(I probably should not mention it lol 😄)
 
-:heart: C++, Python, C, HTML.
-
-📫 Follow me on [Twitter](https://www.twitter.com/kameshkotwani) | [Linkedin](https://www.linkedin.com/in/kameshkotwani) | [GitHub](https://www.github.com/kameshkotwani)
-
-⚡ I **despise** social-media.
+[website]: https://kameshkotwani.github.io/portfolio
+[youtube]: https://www.youtube.com/kamesh1426
+[brave]: https://www.brave.com/kam026
 
 
 
