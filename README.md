@@ -48,7 +48,9 @@
 
 <hr>
 
+### Activity Status
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=true" />
 
