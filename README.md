@@ -6,8 +6,7 @@
 - Actively Looking for Jobs.
 - Contributing to Open Source.
 - Microsoft Fanatic and [Brave Browser][brave] supporter.
-<br/>
-
+----------
 ### Judge me here:
 
 [<img align="left" alt="portfolio-website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg "/>][website]
