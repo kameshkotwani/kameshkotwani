@@ -46,20 +46,13 @@
 
 <br />
 
-<hr>
+<img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=false" />
 
-### Activity Status
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity--> 
-
-<hr>
-
-<img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=true" />
 
 ### Currently Playing on Spotify 
 
 
-[![Spotify](/https://novatorem.kameshkotwani.vercel.app/api/spotify)](https://open.spotify.com/user/jgdbq3osfozxc2gbfe0k2lwy9)
+[![Spotify](https://novatorem-pi-pied.vercel.app/api/spotify)](https://open.spotify.com/user/jgdbq3osfozxc2gbfe0k2lwy9)
 
 
 [website]: https://kameshkotwani.github.io/portfolio
