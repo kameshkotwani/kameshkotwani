@@ -45,14 +45,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<hr>
 
 <img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=false" />
 
-
-### Currently Playing on Spotify 
-
-
-[![Spotify](https://novatorem-pi-pied.vercel.app/api/spotify)](https://open.spotify.com/user/jgdbq3osfozxc2gbfe0k2lwy9)
 
 
 [website]: https://kameshkotwani.github.io/portfolio
