@@ -47,9 +47,6 @@
 <br />
 <hr>
 
-<img align="left" alt="Kamesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kameshkotwani&show_icons=true&hide_border=false" />
-
-
 
 [website]: https://kameshkotwani.github.io/portfolio
 [youtube]: https://www.youtube.com/kamesh1426
