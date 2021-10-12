@@ -3,7 +3,6 @@
 ### Developer, Gamer, Some other things too.
 - Currently Working on redesigning my [Portfolio][website].
 - Currently Learning Data Structures and Algorithms!
-- Actively Looking for Jobs.
 - Contributing to Open Source.
 - [Microsoft][microsoft] Fanatic and [Brave Browser][brave] supporter.
 ----------
