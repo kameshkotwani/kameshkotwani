@@ -1,6 +1,6 @@
 ## Hello, I'm Kamesh.
 
-### Developer, Gamer, Some other things too.
+### Project Engineer at CDAC, casual gamer, open source fanatic.
 - Currently Working on redesigning my [Portfolio][website].
 - Currently Learning Data Structures and Algorithms!
 - Contributing to Open Source.
