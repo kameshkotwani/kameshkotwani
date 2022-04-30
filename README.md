@@ -1,4 +1,4 @@
-### casual gamer, open source fanatic.
+### data engineer, casual gamer, open source fanatic.
 
 - Learning Data Structures and Algorithms!
 - Contributing to Open Source.
