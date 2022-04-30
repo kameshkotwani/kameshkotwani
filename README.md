@@ -1,9 +1,8 @@
-## Hello, I'm Kamesh.
+### casual gamer, open source fanatic.
 
-### Project Engineer at CDAC, casual gamer, open source fanatic.
-- Currently Working on redesigning my [Portfolio][website].
-- Currently Learning Data Structures and Algorithms!
+- Learning Data Structures and Algorithms!
 - Contributing to Open Source.
+- building machine learning applications.
 - [Microsoft][microsoft] Fanatic and [Brave Browser][brave] supporter.
 ----------
 ### Find me below
@@ -48,7 +47,6 @@
 
 
 [website]: https://kameshkotwani.github.io/portfolio
-[youtube]: https://www.youtube.com/kamesh1426
 [brave]: https://www.brave.com/kam026
 [twitter]:https://www.twitter.com/kameshkotwani
 [linkedin]:https://www.linkedin.com/in/kameshkotwani
