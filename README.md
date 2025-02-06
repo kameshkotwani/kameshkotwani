@@ -29,22 +29,21 @@ Hi, I'm **Kamesh Kotwani**, a passionate **Data Scientist & MLOps Engineer** wit
 
 ### **🔬 MLOps & Model Deployment**
 - MLflow, DVC, Airflow, Docker, Kubernetes
-- CI/CD for ML models (GitHub Actions, Azure Pipelines)
-- Model Serving (FastAPI, Flask, AWS Lambda)
-- Cloud Deployment (AWS SageMaker, Azure ML, GCP AI Platform)
+- CI/CD for ML models (GitHub Actions, GitLab Pipelines Azure Pipelines, DVC Pipelines)
+- Model Serving (FastAPI, Flask, Django)
+- Cloud Deployment (AWS SageMaker, Azure ML, Microsoft Fabric)
 
 ### **💾 Big Data & Databases**
-- Apache Spark, Hadoop, PySpark
+- Apache Spark, Hadoop, PySpark, Azure Databricks, Oracle APEX
 - SQL, NoSQL, MongoDB, Elasticsearch
-- Snowflake, Databricks, BigQuery
 
 ### **📊 Data Visualization & Analytics**
-- Power BI, Tableau, Matplotlib, Seaborn
+- Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
 ### **☁️ Cloud & DevOps**
 - **AWS** (S3, Lambda, EC2, SageMaker)
 - **Azure** (Azure ML, Data Factory, Synapse)
-- Kubernetes, Terraform, Ansible
+- Kubernetes, Ansible
 
 ---
 
