@@ -44,7 +44,6 @@ Hi, I'm **Kamesh Kotwani**, a passionate **Data Scientist & MLOps Engineer** wit
 ### **☁️ Cloud & DevOps**
 - **AWS** (S3, Lambda, EC2, SageMaker)
 - **Azure** (Azure ML, Data Factory, Synapse)
-- **GCP** (Vertex AI, BigQuery)
 - Kubernetes, Terraform, Ansible
 
 ---
