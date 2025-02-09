@@ -13,7 +13,7 @@ Hi, I'm **Kamesh Kotwani**, a passionate **Data Scientist & MLOps Engineer** wit
 ## 📌 About Me
 - 🎓 **Master’s in Data Science**
 - 💼 **2+ years of experience** in Data Science & AI
-- 🔬 Strong focus on **MLOps, model deployment, and cloud automation**
+- 🔬 Strong focus on **Statistical Modelling, Predictive Modelling, Machine Learning, MLOps, and cloud automation**
 - 💡 Passionate about **building end-to-end ML solutions**
 - 🏆 **Microsoft DP-100 Certified** - Designing & Implementing Data Science Solutions on Azure
 
