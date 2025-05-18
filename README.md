@@ -1,4 +1,4 @@
-# Data Scientist, Machine Learnig & MLOps Engineer
+# Data Scientist and ML Engineer
 
 ![Kamesh Kotwani - Data Scientist](https://img.shields.io/badge/Data_Scientist-Machine_Learning_Engineer-brightgreen)
 ![MLOps](https://img.shields.io/badge/MLOps-MLflow%2C_DVC%2C_Kubernetes%2C_Airflow-blue)
