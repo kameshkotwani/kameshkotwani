@@ -1,11 +1,11 @@
-# Data Scientist
+# Data Scientist and Machine Learning Engineer
 
 ![Kamesh Kotwani - Data Scientist](https://img.shields.io/badge/Data_Scientist-Machine_Learning_Engineer-brightgreen)
 ![MLOps](https://img.shields.io/badge/MLOps-MLflow%2C_DVC%2C_Kubernetes%2C_Airflow-blue)
 
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%2C_Azure%2C_GCP-orange)
 
-Hi, I'm **Kamesh Kotwani**, a passionate **data scientist** with expertise in machine learning, Deep Learning, Big Data, and cloud computing. I have a **strong foundation in ML/LLMOps, NLP, and statistical modelling** with experience in deploying ML models at scale.  
+Hi, I'm **Kamesh Kotwani**, a passionate **data scientist** with expertise in machine learning, Deep Learning, Big Data, and cloud computing. I have a **strong foundation in ML/LLMOps, NLP, GenAI, LLM Agents, LangGraph and statistical modelling** with experience in deploying ML models at scale.  
 
 🚀 **Currently seeking opportunities in Data Science in the UK** 🇬🇧  
 
