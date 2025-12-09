@@ -47,8 +47,6 @@ Hi, I'm **Kamesh Kotwani**, a passionate **data scientist** with expertise in ma
 
 ---
 
----
-
 ## 📬 Connect with Me
 🚀 I'm always open to discussing **exciting projects, collaborations, and job opportunities!**  
 
