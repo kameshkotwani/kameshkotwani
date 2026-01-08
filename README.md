@@ -7,14 +7,12 @@
 
 Hi, I'm **Kamesh Kotwani**, a passionate **data scientist** with expertise in machine learning, Deep Learning, Big Data, and cloud computing. I have a **strong foundation in ML/LLMOps, NLP, GenAI, LLM Agents, LangGraph and statistical modelling** with experience in deploying ML models at scale.  
 
-🚀 **Currently seeking opportunities in Data Science in the UK** 🇬🇧  
-
 ---
 
 ## 📌 About Me
 - 🎓 **Master’s in Data Science**
 - 💼 **2+ years of experience** in Data Science & AI
-- 🔬 Strong focus on **Statistical Modelling, Predictive Modelling, Machine Learning, ML/LLMOps, and cloud automation**
+- 🔬 Strong focus on **Statistical Modelling, Predictive Modelling, Machine Learning, ML/LLMOps, Agentic AI and cloud automation**
 - 💡 Passionate about **building end-to-end ML solutions**
 - 🏆 **Microsoft DP-100 Certified** - Azure Data Scientist Associate
 
@@ -48,8 +46,6 @@ Hi, I'm **Kamesh Kotwani**, a passionate **data scientist** with expertise in ma
 ---
 
 ## 📬 Connect with Me
-🚀 I'm always open to discussing **exciting projects, collaborations, and job opportunities!**  
-
 📧 **Email:** [kameshkotwani@gmail.com](mailto:kameshkotwani@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/kameshkotwani](https://linkedin.com/in/kameshkotwani) 
 
